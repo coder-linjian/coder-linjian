@@ -2,7 +2,7 @@
 - 👀 I’m interested in GDI Malwares
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate with @AWJDXUGE @pankoza2-pl
-- 📫 How to reach me : Nothing
+- 📫 How to reach me : coderlinjian@gmail.com
 - ⚡ Fun fact: I am a sixth grader.But I already have some knowmledge of making GDI Malwares.
 
 
